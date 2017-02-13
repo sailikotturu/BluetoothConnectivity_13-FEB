@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bluetooth_13-FEB</string>
+    <string name="on_toast">Bluetooth is ON !!</string>
+    <string name="off_toast">Bluetooth is OFF !!</string>
+</resources>
